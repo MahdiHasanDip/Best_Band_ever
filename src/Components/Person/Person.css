@@ -1,0 +1,40 @@
+
+/* Person container style  */
+.person-container{
+
+border:2px solid tomato;
+width: 280px;
+margin: 0px 0px 35px 30px;
+padding: 12px;
+border-radius: 10px;
+
+
+}
+
+/* hover effect  */
+
+.person-container:hover{
+    box-shadow:10px 1px 34px tomato ;
+}
+
+/* person-container img style  */
+
+.person-container img{
+ width: 150px;
+ height: 150px;
+ border: 2px solid lightgray;
+ border-radius: 5px;
+
+
+
+}
+
+/* addToCart-btn style  */
+
+
+.addToCart-btn{
+    color:whitesmoke;
+    padding: 3px 20px;
+    border: 1px solid tomato;
+    
+}

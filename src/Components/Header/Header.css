@@ -1,0 +1,21 @@
+.top-section{
+  
+   /* background-color:tomato; */
+   background-image: linear-gradient( rgb(241, 75, 75),tomato);
+   height: 350px;
+   margin-bottom: 50px;
+   color: rgb(255, 255, 255);
+   
+
+}
+
+.top-text{
+
+margin-left: 2%;
+line-height: 35px;
+}
+
+.top-text h3{
+
+   margin-top: 15px;
+}

@@ -1,0 +1,14 @@
+
+/* Main style  */
+
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-image: linear-gradient(whitesmoke);
+}
+
+
+.Person-containr{
+border-right: 1px solid tomato;
+
+}
